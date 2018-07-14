@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 253b08d8a484e3e429a3c8640887e711
+timeCreated: 1493739688
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 14272_Bluemoon_PixCers_ v.1.1
+  fontNames:
+  - 14272_Bluemoon_PixCers_ v.1.1
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
